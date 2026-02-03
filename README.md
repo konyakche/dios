@@ -7,4 +7,4 @@ Dios is a compact dependency injection container and orchestration toolkit desig
 ## Features
 - Simple service registration and resolution
 - Lifecycle hooks for start/stop
-- Minimal runtime overhead
+- Minimal runtime overhead.
